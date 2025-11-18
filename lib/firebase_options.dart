@@ -65,4 +65,5 @@ class DefaultFirebaseOptions {
     storageBucket: 'flutter-notification-67f0e.firebasestorage.app',
     iosBundleId: 'com.yori.flutterNotification',
   );
+
 }
